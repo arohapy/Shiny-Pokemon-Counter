@@ -8,8 +8,8 @@ Added a section to confirm if you want to overwrite or load data.
 
 1.2:
 
-Added a version compatible with windows
+Added a version compatible with windows.
 
 Version 1.1:
 
-Fixed a bug I completely overlooked in the first version
+Fixed a bug I completely overlooked in the first version.
